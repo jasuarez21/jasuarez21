@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**jasuarez21/jasuarez21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Josep Suarez
+I am a fullstack developer and an entrepreneur
+📍 I'm living in Barcelona, Spain
 
-Here are some ideas to get you started:
+🔭 I’m currently working on a e-commerce of motorcycles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning React Native
+
+👨‍💻 All of my projects are available at https://github.com/jasuarez21
+
+💬 Ask me about React, React-Native, Redux, Node, Mongo, and bikes
+
+Connect with me:
+https://www.linkedin.com/in/josep-suarez-prats/
+
+Languages and Tools:
+bootstrap csharp css3 express firebase git html5 javascript jest laravel linux mongodb mysql nodejs php postman react reactnative redux sass typescript

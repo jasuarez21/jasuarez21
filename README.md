@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Hi 👋, I'm Josep Suarez
-
-I am a fullstack developer
+<h1 align="center">Hi 👋, I'm Josep Suarez </h1> <p align="center"></p>
+<h3 align="center">I'm a FullStack Developer based on JavaScript</h3>
 
 📍 I'm living in Barcelona, Spain
 

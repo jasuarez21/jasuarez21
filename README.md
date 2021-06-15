@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 Hi 👋, I'm Josep Suarez
-I am a fullstack developer and an entrepreneur
+
+I am a fullstack developer
 
 📍 I'm living in Barcelona, Spain
 
@@ -11,7 +12,7 @@ I am a fullstack developer and an entrepreneur
 
 👨‍💻 All of my projects are available at https://github.com/jasuarez21
 
-💬 Ask me about React, React-Native, Redux, Node, Mongo, and bikes
+💬 Ask me about React, React-Native, Redux, Node, Mongo, and motorcycles
 
 Connect with me:
 https://www.linkedin.com/in/josep-suarez-prats/

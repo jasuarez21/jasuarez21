@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Josep Suarez </h1> <p align="center"></p>
 <h3 align="center">I'm a FullStack Developer based on JavaScript</h3>
 

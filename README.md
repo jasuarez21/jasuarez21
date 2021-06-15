@@ -16,4 +16,5 @@ Connect with me:
 https://www.linkedin.com/in/josep-suarez-prats/
 
 Languages and Tools:
+
 bootstrap csharp css3 express firebase git html5 javascript jest laravel linux mongodb mysql nodejs php postman react reactnative redux sass typescript

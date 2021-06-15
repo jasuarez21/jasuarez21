@@ -2,6 +2,7 @@
 
 Hi 👋, I'm Josep Suarez
 I am a fullstack developer and an entrepreneur
+
 📍 I'm living in Barcelona, Spain
 
 🔭 I’m currently working on a e-commerce of motorcycles

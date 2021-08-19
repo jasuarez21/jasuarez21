@@ -3,9 +3,7 @@
 
 📍 I'm living in Barcelona, Spain
 
-🔭 I’m currently working on a e-commerce of motorcycles
-
-🌱 I’m currently learning React Native
+🔭 I’m currently working with Angular
 
 👨‍💻 All of my projects are available at https://github.com/jasuarez21
 

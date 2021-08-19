@@ -7,7 +7,7 @@
 
 👨‍💻 All of my projects are available at https://github.com/jasuarez21
 
-💬 Ask me about React, React-Native, Redux, Node, Mongo, and motorcycles
+💬 Ask me about React, React-Native, Redux, Node, Angular, Mongo, and motorcycles
 
 Connect with me:
 <h3 align="left">Connect with me:</h3>

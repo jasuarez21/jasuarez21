@@ -3,7 +3,7 @@
 
 📍 I'm living in Barcelona, Spain
 
-🔭 I’m currently working with Angular
+🔭 I’m currently working with React
 
 👨‍💻 All of my projects are available at https://github.com/jasuarez21
 
